@@ -13,3 +13,14 @@
 
  * The tale body (tbody) is used to insert elements in the tables body
  * The table data (td) is used ti insert elements as data column
+
+
+### CONCLUDING THE PROJECT WORK
+
+#### WORK SPACE
+
+![alt](/ASSETS/codespace.png)
+
+#### CODE RESULT
+
+![alt](/ASSETS/RESULT.png)
